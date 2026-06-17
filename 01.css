@@ -79,3 +79,18 @@ input:focus{
     box-shadow:
         0 0 15px rgba(0,150,255,0.5);
 }
+
+.sign-up{
+    margin-top: 15px;
+    text-align: center;
+    color: rgba(255,255,255,0.8);
+}
+
+.sign-up:hover{
+    color: #00a2ff;
+    text-decoration: underline;
+}
+
+.sign{
+    text-align: center;
+}
